@@ -1,0 +1,32 @@
+{
+  "name": "react-parcel-ts-starter",
+  "version": "1.0.0",
+  "description": "A Starter for React Project Based On TypeScript and Parcel",
+  "author": "Lurance",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "node build/prod.js",
+    "tcm": "tcm src -w"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.3.17",
+    "@types/react-dom": "^16.0.6",
+    "autoprefixer": "^8.6.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.8.1",
+    "postcss-modules": "^1.1.0",
+    "typed-css-modules": "^0.3.4",
+    "typescript": "^2.9.1"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
