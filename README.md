@@ -1,4 +1,4 @@
-# A Starter for React Project Based On TypeScript and Parce
+# A Starter for React Project Based On TypeScript and Parcel
 
 ## 开发中，自用
 
